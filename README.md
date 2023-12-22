@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Aravind
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN Stack
+- 👋 Hi, I’m Aravind 👀
